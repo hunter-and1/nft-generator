@@ -1,0 +1,17 @@
+{
+  "name": "generate-psd-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "probability-node": "^0.0.1",
+    "simple-svg-tools": "^1.1.12",
+    "svgstore": "^3.0.0-2"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+_old_projects
+collected
+collected-race
+collected-else
+collected-else2
+*.zip
+*.psd
